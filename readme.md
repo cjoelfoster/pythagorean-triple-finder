@@ -18,6 +18,8 @@ Then, the set of pythagorean triples 'Py' bounded by l and u is the set of all t
 
 e.g. for l = 0, u = 5: Py = {}, and for l = 4, u = 6: Py = {(3,4,5), (4,3,5)}
 
+Finally, because c^2 = a^2 + b^2 = b^2 + a^2; it suffices to find the set of solutions a < b < c because the other set of solutions b < a < c can be obtained by simply swapping a and b, without requiring computation. And for clarity, these should be the only solutions returned.
+
 ## Program outline
 
 1. Launch: Clear the screen, introduce the user to the program, and explain how it functions
