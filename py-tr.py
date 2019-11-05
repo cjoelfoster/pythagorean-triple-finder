@@ -7,11 +7,11 @@ import subprocess
 import time
 
 # verify import
-print(sys.version_info)
-time.sleep(0.5)
+#print(sys.version_info)
+#time.sleep(0.5)
 
 # initialize screen
-subprocess.call("clear")
+#subprocess.call("clear")
 print("Pythagorean Triple Finder")
 
 # get bounds
