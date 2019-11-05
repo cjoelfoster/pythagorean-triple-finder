@@ -15,8 +15,8 @@ subprocess.call("clear")
 print("Pythagorean Triple Finder")
 
 # get bounds
-lower = input("Please enter an non-negative integer for a lower bound: ")
-upper = input("Please enter a positive, non-zero integer for an upper bound: ")
+lower = int(input("Please enter an non-negative integer for a lower bound: "))
+upper = int(input("Please enter a positive, non-zero integer for an upper bound: "))
 
 Py = []
 
