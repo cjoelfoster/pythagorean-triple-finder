@@ -24,7 +24,7 @@ Py = []
 for c in range(lower, upper):
     for b in range(1, c):
         for a in range(1, b):
-            if(c^2 == (a^2 + b^2)):
+            if((c^2) == ((a^2) + (b^2))):
                 Py.append((a,b,c))
                 print(a, b, c)
             else:
