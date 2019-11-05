@@ -27,8 +27,8 @@ for c in range(lower, upper):
             if((c**2) == ((a**2) + (b**2))):
                 Py.append((a,b,c))
                 print(a, b, c, (a**2), (b**2), (c**2), ((a**2) + (b**2)))
-            else:
-                print(a, b, c)
+#            else:
+#               print(a, b, c)
 
 
 print(Py)
