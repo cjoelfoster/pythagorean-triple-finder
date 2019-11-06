@@ -35,3 +35,10 @@ Finally, because *c*<sup>2</sup> = *a*<sup>2</sup> + *b*<sup>2</sup> = *b*<sup>2
 2. Ask the user for an upper and lower bound
 3. Find all the pythagorean triples between the upper and lower bound
 4. Return a list of the pythagorean triples with *a* &lt; *b* &lt; *c*, or return none if none were found.
+
+## Future development
+
+1. Make the program function in a loop so you don't have to launch it each time
+2. Set up the environment for the program and provide commands for modifying the environment (e.g. start over, quit, clear screen, change bounds, etc.)
+3. Display the results graphically (on a scatter-plot?), or some 2-D image of the results to help with visualization
+4. Develop unit tests for each piece of the code
