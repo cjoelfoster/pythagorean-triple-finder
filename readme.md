@@ -1,4 +1,4 @@
-#Pythagorean Triple Finder
+# Pythagorean Triple Finder
 
 Given a lower bound  (l) and an upper bound (u), find all pythagorean triples c^2 = a^2 + b^2 for a, b, c positive, non-zero integers with l < c < u.
 
