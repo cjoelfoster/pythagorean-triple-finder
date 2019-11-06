@@ -1,6 +1,6 @@
 # Pythagorean Triple Finder
 
-Given a lower bound  (l) and an upper bound (u), find all pythagorean triples c^2 = a^2 + b^2 for a, b, c positive, non-zero integers with l < c < u.
+Given a lower bound  *l* and an upper bound *u*, find all pythagorean triples (*a*, *b*, *c*) where *a* &lt; *b* &lt; *c* that satisfy *c*<sup>2</sup> = *a*<sup>2</sup> + *b*<sup>2</sup> for *a*, *b*, *c* positive, non-zero integers with *l* &lt; *c* &lt; *u*.
 
 ## Mathematical basis
 
