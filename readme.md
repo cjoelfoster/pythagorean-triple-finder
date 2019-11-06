@@ -42,3 +42,11 @@ Finally, because *c*<sup>2</sup> = *a*<sup>2</sup> + *b*<sup>2</sup> = *b*<sup>2
 2. Set up the environment for the program and provide commands for modifying the environment (e.g. start over, quit, clear screen, change bounds, etc.)
 3. Display the results graphically (on a scatter-plot?), or some 2-D image of the results to help with visualization
 4. Develop unit tests for each piece of the code
+
+
+## Usage
+At the command prompt, type
+
+'''python3.6 py-tr.py'''
+
+and follow the on-screen prompts.
