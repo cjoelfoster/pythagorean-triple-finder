@@ -34,4 +34,4 @@ Finally, because *c*<sup>2</sup> = *a*<sup>2</sup> + *b*<sup>2</sup> = *b*<sup>2
 1. ~~Launch: Clear the screen, introduce the user to the program, and explain how it functions~~
 2. Ask the user for an upper and lower bound
 3. Find all the pythagorean triples between the upper and lower bound
-4. Display (graphically?) all the triples found for the user, or none if none were found
+4. Return a list of the pythagorean triples with *a* &lt; *b* &lt; *c*, or return none if none were found.
